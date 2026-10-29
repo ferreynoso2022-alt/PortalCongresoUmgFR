@@ -1,0 +1,8 @@
+1,El Futuro de la Inteligencia Artificial,Salon 1A,Fernando Alejandro Monterroso
+2,Ciberseguridad moderna,Salon 2B,Camila Fernanda Morales
+3,Desarrollo de Software,Salon 3B,Juan Carlos Pacheco
+4,Redes Inteligentes,Salon 1B,Erick Antonio López
+5,Computacion en la Nube,Auditorium 1A,Kevin Alejandro Castillo
+6,Machine Learning,Auditorium 1B,Juliana Andrea Pérez
+7,Ingenieria de Prompts,Auditorium Central,Alessandra Esthephany Sinay
+8,La IA es el presente no el futuro,Auditorium Central,Joel Estuardo Ramírez

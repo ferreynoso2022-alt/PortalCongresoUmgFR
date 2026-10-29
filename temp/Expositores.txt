@@ -1,0 +1,12 @@
+1,Fernando Alejandro Monterroso,Ingeniero de Inteligencia Artificial
+2,Camila Fernanda Morales,Especialista en Ciberseguridad
+3,Carlos Eduardo Méndez,Desarrollador de Software
+4,Erick Antonio López,Administrador de Redes
+5,Kevin Alejandro Castillo,Ingeniero de Infraestructura Cloud
+6,Juan Carlos Pacheco,Ingeniero de Machine Learning
+7,Juliana Andrea Pérez,Analista de Datos
+8,Joel Estuardo Ramírez,Gerente de Tecnología de la Información
+9,Luis Alberto Dominguez,Ingeniero de Prompts y Modelos de IA
+10,Rodrigo Arenas,Administrador de Sistemas Informáticos
+11,Marlon Rigoberto Estrada,Ingeniero de Redes Neuronales
+12,Alessandra Esthephany Sinay,Ingeniera en Desarrollo de Aplicaciones
