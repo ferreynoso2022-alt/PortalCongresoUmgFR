@@ -61,7 +61,7 @@ public class PanelConferencias extends javax.swing.JPanel {
             return;
         }
 
-        String lineaCSV = indiceId+","+titulo+","+salon+","+nombreExpositor;
+        String lineaCSV = indiceId+","+titulo+","+salon+","+nombreExpositor+"\n";
         guardarConferencia(lineaCSV);
     }
 

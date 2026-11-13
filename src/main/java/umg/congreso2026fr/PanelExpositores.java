@@ -28,7 +28,7 @@ public class PanelExpositores extends javax.swing.JPanel {
         String especialidad = txtEspecialidadExpositor.getText().replace(",", "").trim();
         int indiceId = listaExpositores.stream().mapToInt(Expositor::getIdExpositor).max().orElse(0) + 1;
 
-        String lineaCSV = indiceId+","+expNombre+","+especialidad;
+        String lineaCSV = indiceId+","+expNombre+","+especialidad+"\n";
             
         GuardarExpositor(lineaCSV);
     }

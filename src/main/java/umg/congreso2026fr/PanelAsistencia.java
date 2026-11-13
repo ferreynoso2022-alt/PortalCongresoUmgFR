@@ -43,7 +43,6 @@ public class PanelAsistencia extends javax.swing.JPanel {
     private void validarEstudiante(){
         listaEstudiantes = Estudiante.RetornarEstudiantes();
         String txtCarne = txtConsultaCarnet.getText();
-        boolean encontrado = false;
 
         for (Estudiante est : listaEstudiantes) {
             if (est.getCarne().equals(txtCarne)) {
@@ -52,10 +51,10 @@ public class PanelAsistencia extends javax.swing.JPanel {
             }
         }
 
-        estudianteNoEncontrado(encontrado);
+        estudianteNoEncontrado();
     }
 
-    private void estudianteNoEncontrado(boolean encontrado){
+    private void estudianteNoEncontrado(){
         JOptionPane.showMessageDialog(this, "No se encontró al estudiante");
         return;
     }

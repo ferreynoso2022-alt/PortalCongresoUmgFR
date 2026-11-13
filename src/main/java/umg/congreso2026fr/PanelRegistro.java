@@ -35,7 +35,7 @@ public class PanelRegistro extends javax.swing.JPanel {
         }
 
         if (estCorreo.contains("@") && estCorreo.contains(".") && estCorreo.indexOf("@") > 0) {
-            String lineaCSV = estCarne+","+estNombre+","+estCorreo+","+"false";
+            String lineaCSV = estCarne+","+estNombre+","+estCorreo+","+"false"+"\n";
             GuardarEstudiante(lineaCSV);
         }else{
             JOptionPane.showMessageDialog(this, "El correo no es válido");
